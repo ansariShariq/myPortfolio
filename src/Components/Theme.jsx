@@ -6,15 +6,16 @@ export const Theme = {
         primary:"#345B63", //light green;
         primary1:" #152D35"//deepest greeen [portfolio,footer];
     }
+    
 }
+
+
 // colors:{
-//     base1:"#1e464a", //deep green background [navbar,about,contact];
-//     base2:"#fff", //white;
-//     primary:"#0097a7", //light green;
-//     primary1:"#143438"//deepest greeen [portfolio,footer];
-// }
-
-
+    //     base1:"#534340", //deep green background [navbar,about,contact];
+    //     base2:"F4FCD9", //white;
+    //     primary:"#BB9981", //light green;
+    //     primary1:"#C5D8A4"//deepest greeen [portfolio,footer];
+    // }
 
 // colors:{
 //     base1:"#3E00FF", //deep green background [navbar,about,contact];
