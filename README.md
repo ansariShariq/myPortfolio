@@ -6,13 +6,13 @@
 
 ### Screenshots
 #### Welcome page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(976).png)
+![alt text]https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port1.png)
 #### About page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(977).png)
+![alt text](https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port2.png)
 #### Projects page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(978).png)
+![alt text](https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port3.png)
 #### Contact page-
-![alt text](https://github.com/tauseef-stack/my-portfolio/blob/master/src/Images/Screenshot%20(979).png)
+![alt text](https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port4.png)
 
 
 
