@@ -6,7 +6,7 @@
 
 ### Screenshots
 #### Welcome page-
-![alt text]https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port1.png)
+![alt text](https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port1.png)
 #### About page-
 ![alt text](https://github.com/ansariShariq/myPortfolio/blob/master/src/Images/port2.png)
 #### Projects page-
