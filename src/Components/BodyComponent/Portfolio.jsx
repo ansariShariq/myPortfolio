@@ -15,8 +15,8 @@ export const Portfolio = () => {
     const classes = useStyles();
     const portfolioData = [
         {url:image1,title:"Tanishq Github",visitLink:"https://psaini9211.github.io/Tanishq/Html/",git:"https://github.com/ansariShariq/tanishq/tree/master/src",ptitle:"Tanishq",desc:"Clone jewelery Website Tanishq.com",stack:"HTML | CSS | Java Script | Node Js | MongoDB |EJS.",},
-        {url:image2,title:"Yatra Github",visitLink:"https://yatraa.netlify.app/",git:"https://github.com/neerajmasai/yatra-clone",ptitle:"Yatra",desc:"This is a clone of Indian travel agency www.yatra.com website.",stack:" React | HTML | CSS | Java Script | MongoDb | Node Js",},
-        {url:image3,title:"Dream11 Github",/*visitLink:"https://todolist-shariq.herokuapp.com/",*/git:"https://github.com/Niket1-1/DREAM11_project",ptitle:"Dream 11",desc:"Clone of Fantasy game website gofundme.com.",stack:" HTML | CSS | Java Script ",},
+        {url:image2,title:"Yatra Github",visitLink:"https://yatraa.netlify.app/",git:"https://github.com/neerajmasai/yatra-clone",ptitle:"Yatra",desc:"This is a clone of Indian travel agency www.yatra.com website.",stack:" React | HTML | CSS | Java Script | MongoDb | Node Js"}
+        // {url:image3,title:"Dream11 Github",/*visitLink:"https://todolist-shariq.herokuapp.com/",*/git:"https://github.com/Niket1-1/DREAM11_project",ptitle:"Dream 11",desc:"Clone of Fantasy game website gofundme.com.",stack:" HTML | CSS | Java Script ",},
      
     ]
     return (
