@@ -42,9 +42,9 @@ export const Contact = () => {
            desc:"https://www.linkedin.com/in/shariq-ansari-001/"
         },
         {
-            Icon: <Link href="https://drive.google.com/file/d/1xYK1qDJlkRy-g0bl-N859N5Td44FvpaD/view?usp=sharing" target="_blank" underline="hover" style={{color:"#fff"}}><ReorderRoundedIcon/></Link>,
+            Icon: <Link href="https://drive.google.com/drive/folders/1qWw5kQeJfKoEp-u4suV9hSy5DxT7vU1d?usp=sharing" target="_blank" underline="hover" style={{color:"#fff"}}><ReorderRoundedIcon/></Link>,
             label: "Resume",
-            desc:"https://drive.google.com/file/d/1xYK1qDJlkRy-g0bl-N859N5Td44FvpaD/view?usp=sharing"
+            desc:"https://drive.google.com/drive/folders/1qWw5kQeJfKoEp-u4suV9hSy5DxT7vU1d?usp=sharing"
         },
    ]
     return (
